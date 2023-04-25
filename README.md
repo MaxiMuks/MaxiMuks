@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SungMuk%20Lim😎&fontSize=75)
 
 <div align=center>
-## 📔Tech Stacks📔
+<h1>📔Tech Stacks📔</h1>
 </div>
 
 <div align=center>
