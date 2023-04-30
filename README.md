@@ -3,12 +3,21 @@
 <div align=center>
   <h3>Welcome🙏 Muk's Github</h3>
 </div>
+
 <div align=center>
   <h2>📔Tech Stacks📔</h2>
 </div>
 
 <div align=center>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+</div>
+
+<div align=center>
+  <h2>💻Studying💻</h2>
+</div>
+
+<div align=center>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/>
 </div>
 
 
