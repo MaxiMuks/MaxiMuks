@@ -5,7 +5,7 @@
 </div>
 
 <div align=center>
-  <h2> Preparing Front_End developer⏳ </h2>
+  <h4> Preparing Front_End developer⏳ </h4>
 </div>
 
 <div align=center>
