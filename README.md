@@ -9,7 +9,7 @@
 </div>
 
 <div align=center>
-  <h2>📔Tech Stacks📔</h2>
+  <h3>📔Tech Stacks📔</h3>
 </div>
 
 <div align=center>
@@ -20,7 +20,7 @@
 </div>
 
 <div align=center>
-  <h2>💻Studying💻</h2>
+  <h3>💻Studying💻</h3>
 </div>
 
 <div align=center>
