@@ -24,7 +24,7 @@
 </div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-609926?style=flat&logo=JAVA&logoColor=white"/>
 </div>
 
 
